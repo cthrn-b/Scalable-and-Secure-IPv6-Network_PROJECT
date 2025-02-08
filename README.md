@@ -10,7 +10,7 @@ This project focuses on designing and implementing a **scalable and secure IPv6 
 - Apply **SQL data analysis** for network performance evaluation.
 - Conduct **comprehensive testing** to verify connectivity, routing, and security.
 
-## roject Phases
+## Project Phases
 ### 1. Design Phase
 - **IPv6 Address Plan**: Efficient subnetting and addressing scheme.
 - **Routing Protocol Selection**: Justification for using OSPFv3, BGP, or both.
